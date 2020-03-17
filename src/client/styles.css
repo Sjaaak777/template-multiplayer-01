@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: sans-serif;
+  background-color: rgb(27, 27, 27);
+}
+
+canvas {
+  border: 1.5px solid rgb(70, 70, 70);
+  background-color: rgb(47, 47, 47);
+}
